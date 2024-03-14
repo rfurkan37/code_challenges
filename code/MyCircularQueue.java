@@ -1,3 +1,4 @@
+package code;
 class MyCircularQueue {
 
     public MyCircularQueue(int k) {
